@@ -45,7 +45,7 @@ Data was cleaned and preprocessed using Python (Pandas) to ensure consistency an
 **Included Platforms:** GC, N64, PC, PS, PS2, PS3, SAT, Wii, WiiU, X360, XB
  
 ## View the Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiODBmZTIwN2MtMTJiNC00MzkzLTg3M2YtNmJjMjI2YmFlMjc4IiwidCI6ImMyZjEyZmQwLWY5MGMtNDlmMy05ODcxLTAwMmYwODY4MzljMSIsImMiOjZ9&pageName=6a204f84476b00cbbab9
+https://app.powerbi.com/view?r=eyJrIjoiODBmZTIwN2MtMTJiNC00MzkzLTg3M2YtNmJjMjI2YmFlMjc4IiwidCI6ImMyZjEyZmQwLWY5MGMtNDlmMy05ODcxLTAwMmYwODY4MzljMSIsImMiOjZ9
 
 Features:
   
