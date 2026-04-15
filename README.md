@@ -1,5 +1,6 @@
 # Video Game Sales Analysis
 This project explores global video game sales during the emerging 3D gaming era (1995–2015), using Python for data preprocessing and Power BI for interactive visualization. The analysis focuses on trends across home gaming platforms, genres, and regional markets.
+
 The goal of this project is to translate raw sales data into identifiable patterns within the global video game market, leading to actionable insights. 
 
 ## Tools & Technologies
