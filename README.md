@@ -49,9 +49,9 @@ https://app.powerbi.com/view?r=eyJrIjoiODBmZTIwN2MtMTJiNC00MzkzLTg3M2YtNmJjMjI2Y
 
 Features:
   
-  Interactive filters by year, platform, genre, and region
+  - Interactive filters by year, platform, genre, and region
   
-  Regional breakdowns of sales trends
+  - Regional breakdowns of sales trends
 
 ## Future Directions
 Incorporate recent gaming data (post-2015 trends)
