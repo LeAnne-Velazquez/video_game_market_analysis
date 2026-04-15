@@ -25,24 +25,24 @@ Japan diverged from global trends, not experiencing the 2006–2009 sales peak s
 ## Data Preparation & Methodology
 Data was cleaned and preprocessed using Python (Pandas) to ensure consistency and support reliable comparative analysis in Power BI.
 
-Key steps included:
+**Key steps included:**
  
-  Handling missing and inconsistent values, including converting missing publisher values to null to prevent misleading aggregations in regional and genre
+  - Handling missing and inconsistent values, including converting missing publisher values to null to prevent misleading aggregations in regional and genre
   analysis
  
-  Retaining records with missing year values where appropriate, while converting the Year field to numeric format to support time-series analysis
+  - Retaining records with missing year values where appropriate, while converting the Year field to numeric format to support time-series analysis
  
-  Filtering the dataset to include home gaming systems only
+  - Filtering the dataset to include home gaming systems only
  
-  Focusing on 3D-capable and selected console categories to support consistent cross-platform comparisons
+  - Focusing on 3D-capable and selected console categories to support consistent cross-platform comparisons
   
-  Excluding newer-generation consoles (e.g., PS4, Xbox One) due to limited representation within the 1995–2015 timeframe
+  - Excluding newer-generation consoles (e.g., PS4, Xbox One) due to limited representation within the 1995–2015 timeframe
  
-  Aggregating sales data across regions and platforms for analysis in Power BI
+  - Aggregating sales data across regions and platforms for analysis in Power BI
   
-  Structuring the dataset for efficient modeling and dashboard development
+  - Structuring the dataset for efficient modeling and dashboard development
 
-Included Platforms: GC, N64, PC, PS, PS2, PS3, SAT, Wii, WiiU, X360, XB
+**Included Platforms:** GC, N64, PC, PS, PS2, PS3, SAT, Wii, WiiU, X360, XB
  
 ## View the Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiODBmZTIwN2MtMTJiNC00MzkzLTg3M2YtNmJjMjI2YmFlMjc4IiwidCI6ImMyZjEyZmQwLWY5MGMtNDlmMy05ODcxLTAwMmYwODY4MzljMSIsImMiOjZ9
@@ -59,3 +59,9 @@ Incorporate recent gaming data (post-2015 trends)
 Add predictive analysis or forecasting models
 
 Enhance interactivity with additional drill-through features
+
+## License
+
+This project is for educational purposes only.
+
+---
